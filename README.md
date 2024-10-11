@@ -1,23 +1,26 @@
-# Jean-Baptiste Paris - Développeur Web Front-End / Front-end developer
+# Jean-Baptiste Paris - Développeur Web / Web developer
 
 ## À propos de moi / About me 👨🏻
 🇫🇷  
-Salut ! Je suis un apprenti développeur web passionné par le design graphique et les interfaces utilisateurs et spécialisé dans le développement front-end.  
-J'ai récemment travaillé sur le front-end d'une application de location immobilière en utilisant React.  
-[Vous pouvez trouver le repo ici](https://github.com/Jean-Baptiste-Paris/OC-Kasa)  
+Salut ! Je suis un développeur web junior passionné par le design graphique et les jeux de réflexion et spécialisé dans le développement front-end.  
+J'ai récemment travaillé sur mon propre portfolio accessible sur [jean-baptiste-paris.com](jean-baptiste-paris.com).  
+[Vous pouvez trouver le repo ici](https://github.com/Jean-Baptiste-Paris/Jean-Baptiste-Paris.github.io)  
 Mes objectifs sont d'élargir mes compétences côté backend et de créer des expériences utilisateur marquantes.  
   
 🇬🇧  
-Hi ! I am an apprentice web developer passionate about graphic design and user interfaces, specializing in front-end development.  
-I recently worked on the front-end of a real estate rental application using React.  
-[You can find the repository here](https://github.com/Jean-Baptiste-Paris/OC-Kasa).  
+Hi ! I am junior web developer passionate about graphic design and puzzle games, specializing in front-end development.  
+I recently worked on my own portfolio accessible at [jean-baptiste-paris.com](jean-baptiste-paris.com).
+[You can find the repository here](https://github.com/Jean-Baptiste-Paris/Jean-Baptiste-Paris.github.io).  
 My goals are to expand my skills on the backend and to create impactful user experiences.  
 
 ## Compétences / Skills🌳
-- HTML, CSS, JavaScript & PHP
-- React, Node.js & Sass
+- HTML, CSS, Sass
+- Javascript, Typescript, PHP, Python
+- MySQL, SQL, PHPMyAdmin, MongoDB
+- Vite, React, Node.js
+- Bootstrap, Tailwind
+- Lighthouse, WAVE
 - WordPress
-- Bootstrap
 
 ## Contact
 - 📧 E-mail : ecrireajb@gmail.com
