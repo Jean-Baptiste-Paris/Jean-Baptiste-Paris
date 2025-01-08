@@ -2,22 +2,20 @@
 
 ## À propos de moi / About me 👨🏻
 🇫🇷  
-Salut ! Je suis un développeur web junior passionné par le design graphique et les jeux de réflexion et spécialisé dans le développement front-end.  
-J'ai récemment travaillé sur mon propre portfolio accessible sur [jean-baptiste-paris.com](jean-baptiste-paris.com).  
-[Vous pouvez trouver le repo ici](https://github.com/Jean-Baptiste-Paris/Jean-Baptiste-Paris.github.io)  
+Salut ! Je suis un développeur web junior passionné par le design graphique et les jeux de réflexion.  
+Je travaille en ce moment sur un projet de jeu de carte dont vous pouvez suivre le développement [ICI](https://github.com/Jean-Baptiste-Paris/SETE). 
 Mes objectifs sont d'élargir mes compétences côté backend et de créer des expériences utilisateur marquantes.  
   
 🇬🇧  
-Hi ! I am junior web developer passionate about graphic design and puzzle games, specializing in front-end development.  
-I recently worked on my own portfolio accessible at [jean-baptiste-paris.com](jean-baptiste-paris.com).
-[You can find the repository here](https://github.com/Jean-Baptiste-Paris/Jean-Baptiste-Paris.github.io).  
+Hi ! I am junior web developer passionate about graphic design and puzzle games.  
+I am currently working on a small card game project whose progress you can check out [HERE](https://github.com/Jean-Baptiste-Paris/SETE)
 My goals are to expand my skills on the backend and to create impactful user experiences.  
 
 ## Compétences / Skills🌳
 - HTML, CSS, Sass
 - Javascript, Typescript, PHP, Python
-- MySQL, SQL, PHPMyAdmin, MongoDB
-- Vite, React, Node.js
+- MySQL, SQL, MongoDB
+- React, Django, Spring, Node.js
 - Bootstrap, Tailwind
 - Lighthouse, WAVE
 - WordPress
@@ -36,8 +34,8 @@ I enjoy working in teams, exchanging ideas, and learning from others. Feel free 
 ## Passions 🎲🥾🎸
 🇫🇷  
 En dehors du développement, je suis passionné par les jeux et les énigmes (jeux de société, jeux de decks, escape games, jeux vidéo, théorie des jeux et dilemmes).  
-J'aime aussi explorer de nouveaux endroits à pied, jouer de la musique et la cuisine végétarienne.  
+J'aime aussi explorer de nouveaux endroits, jouer de la musique et la cuisine végétarienne.  
   
 🇬🇧  
 Outside of development, I am passionate about games and puzzles (board games, TCGs, escape games, video games, game theory, and dilemmas).  
-I also love exploring new places on foot, playing music, and cooking vegetarian cuisine.
+I also love exploring new places, playing music, and cooking vegetarian cuisine.
