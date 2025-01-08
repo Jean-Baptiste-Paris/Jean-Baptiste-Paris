@@ -3,12 +3,12 @@
 ## À propos de moi / About me 👨🏻
 🇫🇷  
 Salut ! Je suis un développeur web junior passionné par le design graphique et les jeux de réflexion.  
-Je travaille en ce moment sur un projet de jeu de carte dont vous pouvez suivre le développement [ICI](https://github.com/Jean-Baptiste-Paris/SETE). 
+Je travaille en ce moment sur un projet de jeu de carte dont vous pouvez suivre le développement [ICI](https://github.com/Jean-Baptiste-Paris/SETE).  
 Mes objectifs sont d'élargir mes compétences côté backend et de créer des expériences utilisateur marquantes.  
   
 🇬🇧  
 Hi ! I am junior web developer passionate about graphic design and puzzle games.  
-I am currently working on a small card game project whose progress you can check out [HERE](https://github.com/Jean-Baptiste-Paris/SETE)
+I am currently working on a small card game project whose progress you can check out [HERE](https://github.com/Jean-Baptiste-Paris/SETE).  
 My goals are to expand my skills on the backend and to create impactful user experiences.  
 
 ## Compétences / Skills🌳
