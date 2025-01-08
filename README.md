@@ -9,7 +9,7 @@ Mes objectifs sont d'élargir mes compétences côté backend et de créer des e
 🇬🇧  
 Hi ! I am junior web developer passionate about graphic design and puzzle games.  
 I am currently working on a small card game project whose progress you can check out [HERE](https://github.com/Jean-Baptiste-Paris/SETE).  
-My goals are to expand my skills on the backend and to create impactful user experiences.  
+My goals are to expand my skills in backend development and to create impactful user experiences.  
 
 ## Compétences / Skills🌳
 - HTML, CSS, Sass
